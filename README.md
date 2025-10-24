@@ -54,7 +54,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnandaTryMuhtiga/AnandaTryMuhtiga/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnandaTryMuhtiga/AnandaTryMuhtiga/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AnandaTryMuhtiga/AnandaTryMuhtiga/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tegarpermanaputra21-sudo/tegarpermanaputra21-sudo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tegarpermanaputra21-sudo/tegarpermanaputra21-sudo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tegarpermanaputra21-sudo/tegarpermanaputra21-sudo/output/pacman-contribution-graph.svg">
 </picture>
+
+###
