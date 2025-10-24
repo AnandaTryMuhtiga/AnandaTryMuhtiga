@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I'm Nanda</h1>
+<h1 align="left">Hello, I'm Noth1ng</h1>
 
 ###
 
@@ -8,7 +8,10 @@
 
 ###
 
-<p align="left">I'm a Software Engineering (RPL) student who is currently learning and exploring the world of Web Development.  <br>This repository contains my learning progress, practice projects, and school assignments, mainly focused on frontend and backend web development.</p>
+<p align="left">
+  I'm a Software Engineering (RPL) student who is currently learning and exploring the world of Web Development.  
+  <br>This repository contains my learning progress, practice projects, and school assignments, mainly focused on frontend and backend web development.
+</p>
 <br>
 
 ###
@@ -39,8 +42,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tegarpermanaputra21-sudo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tegarpermanaputra21-sudo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnandaTryMuhtiga&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnandaTryMuhtiga&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <br>
 
@@ -51,23 +54,7 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tegarpermanaputra21-sudo/tegarpermanaputra21-sudo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tegarpermanaputra21-sudo/tegarpermanaputra21-sudo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tegarpermanaputra21-sudo/tegarpermanaputra21-sudo/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnandaTryMuhtiga/AnandaTryMuhtiga/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnandaTryMuhtiga/AnandaTryMuhtiga/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AnandaTryMuhtiga/AnandaTryMuhtiga/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-<!--
-**AnandaTryMuhtiga/AnandaTryMuhtiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
